@@ -1,0 +1,236 @@
+.navbar{
+    background-color :rgb(57, 44, 90)!important
+    
+}
+.nav-link{
+    font-weight: bold;
+    color :rgb(235, 231, 231) !important;
+}
+.fa-shopping-cart{
+ font-size: 32px !important
+
+}
+
+
+
+.fa-user-circle-o{
+font-size: 40px !important
+}
+.A {
+    color:rgb(82, 51, 122);
+    text-align: center;
+    background-color: rgb(214, 187, 30);
+}
+.alert-dark{
+    color:rgb(247, 244, 244);
+    background-color:rgb(69, 32, 99);
+}
+.btn-light{
+    color: rgb(22, 18, 14);
+}
+.card-body{
+    background-color:rgb(229, 226, 226);
+    color: rgb(15, 16, 17);
+}
+.btn-primary{
+    background-color: rgb(229, 226, 226);
+    color: rgb(15, 14, 14);
+}
+
+.card6{
+    width: 620px !important;
+    background-color:rgb(122, 38, 38) ;
+}
+
+.card-img-top1{
+    width: 110px !important;}
+
+    .card-img-top2{
+        width: 165px;
+        text-align: center;
+    }  
+.card-img-top3{
+    width: 162px;
+}
+
+.alert-dark {
+    margin-top: 18px;
+    display: flex;
+}
+
+
+
+
+ .fa-truck , .fa-headphones , .fa-thumbs-up{
+        font-size: 42px !important;
+
+    }
+.cd1 , .cd2 , .cd3{
+    display: flex;
+    background-color: rgb(201, 177, 40);
+    color: rgb(26, 23, 23);
+    width: 25%;
+    height: 100px;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+}
+
+.maincard{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+
+.card-img-top5{
+    height: 200px;
+    
+}
+
+.card-img-top6{
+    height: 200px;
+
+}
+
+.card-img-top7{
+    height: 200px;
+    
+}
+
+.card-img-top8{
+    height: 200px;
+    
+}
+
+.card-img-top5 , .card-img-top6 , .card-img-top7 , .card-img-top8{
+  justify-content: space-around !important;
+}
+
+.btn-light{
+    margin-left: 1000px !important;
+}
+
+.col5,.col6,.col7,.col8{
+    margin-left: 35px !important;
+}
+
+@media screen and (max_width:600px)
+{.cd1,.cd2,.cd3{
+    width: 100%;
+}
+}
+.footer{
+    width: 100%;
+    background-color: rgb(54, 15, 90);
+    color: rgb(248, 240, 240);
+    height: 70px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.fa-facebook-official,.fa-instagram,.fa-whatsapp{
+    font-size: 30px !important;
+    justify-content: space-between !important;
+}
+.alert-dark7{
+    background-color: rgb(160, 158, 145) !important;
+    color: rgb(26, 24, 24);
+    display: flex;
+    margin-top: 20px !important;
+    
+}
+
+
+
+.a2,.a3{
+    margin-left: 20px;
+}
+.a4{
+    margin-left: 383px !important
+}
+.a5{
+    margin-left: 500px !important;
+    margin-top: 5px !important;
+}
+
+.aboutmain{
+    display: flex !important;
+}
+.a6{
+    width: 250px !important;
+}
+.a7{
+    color:rgb(8, 8, 8);
+    padding-top: 50px !important;
+}
+
+.a8{color: rgb(62, 31, 102);
+    margin-top: 30px !important;
+    margin-left: 20px !important;
+}
+  
+
+
+.cd11,.cd12,.cd13{
+    background-color: rgb(211, 207, 188) !important;
+    color: rgb(89, 68, 138) !important;
+    box-shadow: 2px 4px 5px rgb(81, 37, 110) !important;
+    width: 300px !important;
+    height: 80px !important;
+    margin-top: 20px !important;
+font-size: larger;
+}
+.fa-user-circle{
+    font-size: 30px !important;
+    margin-top: 5px !important;
+}
+.abcd{
+    text-align: center;
+    margin-top: 5px !important;
+    color: rgb(145, 138, 163);
+}
+
+
+.add{
+    color: rgb(39, 42, 46);
+    margin-top:10px !important ;
+    margin-bottom: 10px !important;
+    margin-left: 10px !important;
+    font-weight: bold;
+
+}
+
+.needs-validation{
+    color: rgb(78, 88, 58);
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+/* #bon{
+    background-color: lightslategrey !important;
+    color: whitesmoke;
+} */
+
+.login-box{
+    width: 280px !important;
+    position: absolute !important;
+    top: 50% !important;
+    left:50% !important ;
+}
+
+
+.thankyou{
+
+    background-color: gray !important   ;
+    color: rgb(10, 7, 7);
+    
+}
+
+
